@@ -22,4 +22,8 @@ Hi, I'm Fares Brayek From Tunisia.
 
 [2]: http://www.facebook.com/007MrSpy2/
 [6]: http://www.github.com/faresbrayek
+
+### Favorite Languages
+#E34F26 #777BB4 #3776AB
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaresBrayek&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

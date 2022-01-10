@@ -5,11 +5,11 @@ Hello , It's Me 👋
 Hi, I'm Fares Brayek From Tunisia.
 
 - 🔭 I’m currently working on gain Knowledge .
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with python .
+- 🌱 I’m currently learning what i didnt learn.
+- 🤔 I’m looking for help with making projects .
 - 💬 Ask me about what u want .
-- 📫 How to reach me: [![alt text][2.1]][2] [![alt text][6.1]][6] .
 - ⚡ Fun fact: we gonna die .
+- 📫 How to reach me: [![alt text][2.1]][2] [![alt text][6.1]][6] .
 
 
 

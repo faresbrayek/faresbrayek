@@ -16,9 +16,11 @@ Hi, I'm Fares Brayek From Tunisia.
 
 [2.1]: http://i.imgur.com/P3YfQoD.png
 [6.1]: http://i.imgur.com/0o48UoR.png
+[5.1]: https://cdn-icons-png.flaticon.com/512/226/226777.png
 
 [2]: http://www.facebook.com/007MrSpy2/
 [6]: http://www.github.com/faresbrayek
 
 ### Favorite Languages
+ [![alt text][5.1]]  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaresBrayek&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

@@ -21,4 +21,4 @@ Hi, I'm Fares Brayek From Tunisia.
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 [2]: http://www.facebook.com/007MrSpy2/
-[6]: http://www.github.com/carlsednaoui
+[6]: http://www.github.com/faresbrayek

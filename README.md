@@ -22,5 +22,5 @@ Hi, I'm Fares Brayek From Tunisia.
 [6]: http://www.github.com/faresbrayek
 
 ### Favorite Languages
- [![alt text][5.1]]  
+ [![alt text][5.1]]  <a href="https://cdn-icons-png.flaticon.com/512/226/226777.png" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="100" /></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaresBrayek&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

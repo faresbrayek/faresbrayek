@@ -5,9 +5,8 @@ Hello , It's Me 👋
 Hi, I'm Fares Brayek From Tunisia.
 
 - 🔭 I’m currently working on gain Knowledge .
-- 🌱 I’m currently learning what I didnt learn.
-- 🤔 I’m looking for help with making projects .
-- 💬 Ask me about what u want .
+- 🌱 I’m currently learning how to learn faster.
+- 🤔 I’m looking for help with making new ideas.
 - ⚡ Fun fact: we gonna die .
 - 📫 How to reach me: [![alt text][2.1]][2] [![alt text][6.1]][6] .
 

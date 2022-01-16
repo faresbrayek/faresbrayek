@@ -20,7 +20,7 @@ Hi, I'm Fares Brayek From Tunisia.
 [6]: http://www.github.com/faresbrayek
 
 ### Favorite Languages
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="50" /><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" height="50" /><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" height="50" /><img align="center" src="https://cdn-icons.flaticon.com/png/128/721/premium/721671.png?token=exp=1641856516~hmac=6d2932349f004053492dd97c669275d3" height="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="50" /><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" height="50" /><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" height="50" /><img align="center" src="https://mpng.subpng.com/20180427/glq/kisspng-angularjs-typescript-javascript-5ae2d744932ac5.9966023615248156846028.jpg" height="50" />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaresBrayek&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

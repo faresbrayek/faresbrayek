@@ -20,7 +20,7 @@ Hi, I'm Fares Brayek From Tunisia.
 [6]: http://www.github.com/faresbrayek
 
 ### Favorite Languages
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="50" /><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" height="50" /><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" height="50" /><img align="center" src="http://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" height="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="50" /><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" height="50" /><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" height="50" /><img align="center" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" height="50" />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaresBrayek&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

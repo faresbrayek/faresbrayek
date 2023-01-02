@@ -20,7 +20,7 @@ Hi, I'm Fares Brayek From Tunisia.
 [6]: http://www.github.com/faresbrayek
 
 ### Favorite Languages
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="50" /><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" height="50" /><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" height="50" /><img align="center" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" height="50" /><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="50" /><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" height="50" /><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" height="50" /><img align="center" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" height="50" /><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50" /><img align="center" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="50" />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaresBrayek&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

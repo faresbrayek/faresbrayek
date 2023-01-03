@@ -24,3 +24,7 @@ Hi, I'm Fares Brayek From Tunisia.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FaresBrayek&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=chadirabii&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
